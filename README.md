@@ -2,9 +2,11 @@
 
 Que vous cherchiez un **iptv reunion** fluide pour le sport, ou un **iptv martinique** sans décalage de son, l'infrastructure réseau est le seul critère qui compte. Ce dépôt documente la solution de routage la plus stable en 2026 pour les Caraïbes et l'Océan Indien.
 
-### 👇 CLIQUER CI-DESSOUS POUR TESTER LE SERVEUR OPTIMISÉ DOM-TOM 👇
-
-[![Accéder au Meilleur Abonnement IPTV Réunion, Martinique, Guadeloupe, Guyane](https://github.com/iptv-domtom/iptv-domtom-abonnement/blob/main/meilleur-abonnement-iptv-dom-tom.png?raw=true)](https://iptvdomtompro.com)
+<p align="center">
+  <a href="https://iptvdomtompro.com" target="_blank">
+    <img src="https://github.com/iptv-domtom/iptv-domtom-abonnement/blob/main/meilleur-abonnement-iptv-dom-tom.png?raw=true" alt="Accéder au Meilleur Abonnement IPTV Réunion, Martinique, Guadeloupe, Guyane" width="100%" style="max-width: 900px;">
+  </a>
+</p>
 
 ---
 
